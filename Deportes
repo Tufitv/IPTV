@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="Deporte",GOL PERU
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/166609
+
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU FHD" tvg-logo="https://www.soulman.es/wp-content/uploads/2016/05/Gol-Peru-Logomarca.png" group-title="Deporte",GOL PERU FHD
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/166611
+
+#EXTINF:-1 tvg-id="" tvg-name="PE| MOVISTAR DEPORTES FHD" tvg-logo="http://streamgo.vip:8008/images/a84d9aaa70bdb39ef19abc1687d250e9.png" group-title="Deporte",PE| MOVISTAR DEPORTES FHD
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/166614
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | ESPN 1" tvg-logo="http://streamgo.vip:8008/images/7bc938b3e1e5f6875409f0d1a066f198.png" group-title="Deporte",PE | ESPN 1
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/166603
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | ESPN 2" tvg-logo="http://streamgo.vip:8008/images/629d1059bac3e8b3347a508dd7aa0f9c.png" group-title="Deporte",PE | ESPN 2
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/166604
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deporte",AR | ESPN
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/158976
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzPF7o555O8KtseEn-GAIlp4pYbtLgMUcbGQ&usqp=CAU" group-title="Deporte",AR  | ESPN 2
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/158978
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | ESPN 4" tvg-logo="http://streamgo.vip:8008/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="Deporte",AR  | ESPN 4
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/127975
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN" tvg-logo="http://streamgo.vip:8008/images/8cc6936cc4e216acf5251bcaf2cd0ad4.png" group-title="Deporte",CO | ESPN
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/159033
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | ESPN 2" tvg-logo="http://streamgo.vip:8008/images/1a5fed696522607ae30015ba09a8d227.png" group-title="Deporte",CO | ESPN 2
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/159031
+
+#EXTINF:-1 tvg-id="expn.cl" tvg-name="CHI | ESPN" tvg-logo="http://streamgo.vip:8008/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="Deporte",CHI | ESPN
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/128344
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 2" tvg-logo="http://streamgo.vip:8008/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="Deporte",CHI | ESPN 2
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/128345
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI | ESPN 3" tvg-logo="http://streamgo.vip:8008/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="Deporte",CHI | ESPN 3
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/128346
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN DEPORTES HD" tvg-logo="http://streamgo.vip:8008/images/9e0f4764c088f7c5ebae1d1d2241de0b.png" group-title="Deporte",DEPORTES | ESPN DEPORTES HD
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/127978
+
+#EXTINF:-1 tvg-id="" tvg-name="EC | DTV SPORTS" tvg-logo="http://www.skytvpluzz.online:8000/images/189018f7fe3f6e1a3798396127a63acf.png" group-title="Deporte",EC | DTV SPORTS
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/162759
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | DTV SPORTS" tvg-logo="http://streamgo.vip:8008/images/2c9688c7017d6b16bba0f3879ee07bc0.png" group-title="Deporte",CO | DTV SPORTS
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/120549
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS" tvg-logo="http://streamgo.vip:8008/images/7e6742bb7eef2fdd3ae9d2636a0c3d8a.png" group-title="Deporte",PE | FOX SPORTS
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/166606
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS 2" tvg-logo="http://streamgo.vip:8008/images/edd5fcaad82d8679bf836ae0ee9a3323.png" group-title="Deporte",PE | FOX SPORTS 2
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/166607
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | FOX SPORTS 3" tvg-logo="http://streamgo.vip:8008/images/9dd0edd3522eac5722829ef8ad952e5c.png" group-title="Deporte",PE | FOX SPORTS 3
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/166608
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="Deporte",AR | FOX SPORTS
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/158963
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="Deporte",AR | FOX SPORTS 2
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/158965
+
+#EXTINF:-1 tvg-id="" tvg-name="AR | FOX SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxi4gCApcU3HLs00cxRcFY6DFADcYDkgjiQ&usqp=CAU" group-title="Deporte",AR | FOX SPORTS 3
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/158966
+
+#EXTINF:-1 tvg-id="fox.cl" tvg-name="CHI | FOX SPORTS" tvg-logo="http://streamgo.vip:8008/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="Deporte",CHI | FOX SPORTS
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/120545
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI | FOX SPORTS 2" tvg-logo="http://streamgo.vip:8008/images/4e30238679427cf61979378dc815f0ae.png" group-title="Deporte",CHI | FOX SPORTS 2
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/120546
+
+#EXTINF:-1 tvg-id="" tvg-name="CHI | FOX SPORTS 3" tvg-logo="http://streamgo.vip:8008/images/777b383eea161b73957a45bcc559efb9.png" group-title="Deporte",CHI | FOX SPORTS 3
+http://ms373.moonshot.dedi.server-hosting.expert:8008/Uno/Uno1234/120547
+
